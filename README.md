@@ -29,12 +29,12 @@ The GUI includes features for collecting and labeling sensor data, and for real-
 
 ![GUI Screenshot](https://github.com/SentaFito53/KNN_ARM_BAND/blob/main/assets/gui_example.png)
 
-> Replace the image link above with the actual path in your repository.
 
 ## ⚠️ Notes
 
 * Make sure the trained **model** and **scaler** files are available in the project directory (e.g., `model_knn.pkl`, `scaler.pkl`).
 * To improve classification accuracy, increase the **dataset size** by collecting more labeled data samples.
+* Train your custom dataset using collab [TRAIN KNN.ipynb](https://github.com/SentaFito53/KNN_ARM_BAND/blob/main/TRAIN_KNN.ipynb)
 
 
 ## 📦 Key Dependencies

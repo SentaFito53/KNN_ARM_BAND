@@ -49,4 +49,4 @@ The GUI includes features for collecting and labeling sensor data, and for real-
 
 ---
 
-Developed by [SentaFito](https://github.com/SentaFito53) — feel free to use, modify, and extend for research and educational purposes.
+Developed by [SentaFito53](https://github.com/SentaFito53) — feel free to use, modify, and extend for research and educational purposes.

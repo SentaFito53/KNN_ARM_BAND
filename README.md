@@ -7,7 +7,7 @@ This project provides a Python-based GUI for **data collection**, **labeling**, 
 1. **Clone the repository**
 
 ```bash
-git clone "(https://github.com/SentaFito53/KNN_ARM_BAND.git)"
+git clone "https://github.com/SentaFito53/KNN_ARM_BAND.git"
 cd KNN_ARM_BAND/knn_armband
 ```
 
